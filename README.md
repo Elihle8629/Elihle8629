@@ -1,5 +1,5 @@
 ## Personal introduction
-My name is Thembelihle Kubheka, and I am from Mpumalanga. I recently joined the TFG Graduate Program in the BI Operations space. I am passionate about tech and always looking to grow my skills and contribute to effective projects. Outside the academic world, I am a member of the UWC Creative Arts Choir, where I enjoy singing and expressing myself through music. It is a great balance to my tech life and helps keep me creative and energized.
+My name is Thembelihle Kubheka, and I am from Mpumalanga. I recentlty completed my undergrad studies at the university of the Western Cape. I am passionate about tech and always looking to grow my skills and contribute to effective projects. Outside the academic world, I am a member of the UWC Creative Arts Choir, where I enjoy singing and expressing myself through music. It is a great balance to my tech life and helps keep me creative and energized.
 
 ## Education
 I completed my undergraduate degree in 2025 and I am now a full-time postgraduate at the University of the Western Cape pursuing an honors degree in Computer science.
